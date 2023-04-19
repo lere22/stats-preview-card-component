@@ -99,7 +99,7 @@ picture {
 .detail__stats {
 	display: flex;
 	gap: 4rem;
-	margin-top: 6rem;
+	margin-top: 5rem;
 }
 
 .detail__stats div {
